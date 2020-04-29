@@ -6,8 +6,6 @@ Color Sanborn maps downloaded from the Library of Congress.
 
 ![alt text][sanborn_map_volume_10_1921]
 
-[sanborn_map_volume_10_1921]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Map of Sanborn Map Company, Volume 10, 1921"
-
 ## How to find a location's volume
 Sanborn maps are organized into "volumes" which are a group of maps covering a rectangular area of a city. Since I haven't created a digital map index that points to each location's volume, you'll need to find another way to locate a volume. 
 
@@ -20,3 +18,5 @@ Secondly, the Chicago Public Library has an [index of Chicago Sanborn map volume
 
 ### Outside Chicago
 Search the [Library of Congress Sanborn map collection](https://www.loc.gov/collections/sanborn-maps/) for your city's name. Search for county name if city results come up empty. 
+
+[sanborn_map_volume_10_1921]: https://github.com/ChicagoCityscape/sanborn_maps/blob/master/Sanborn%20Map%20Company%2C%20Vol.%2010%2C%201921/sanborn_map_volume_10_1921.png "Map of Sanborn Map Company, Volume 10, 1921"
