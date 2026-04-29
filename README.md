@@ -1,6 +1,18 @@
 # Sanborn maps directory for Chicago
 Color Sanborn maps downloaded from the Library of Congress for your convenience.
 
+## 1989 Chicago Sanborn maps (Chicago Cityscape)
+
+Chicago Cityscape hosts a collection of 1989 Chicago Sanborn map sheets available for direct download. Files are in PDF format and named using the original Sanborn volume/sheet numbering (e.g., `v01nwxp001c.pdf`).
+
+Download individual sheets using this URL pattern:
+
+```
+https://chicago-cityscape-images.nyc3.cdn.digitaloceanspaces.com/sanborn_maps/sanborn_maps_1989/FILENAME.pdf
+```
+
+See the [Chicago Cityscape knowledge base article](https://help.chicagocityscape.com/fireinsurancemaps#Download+the+1989+Sanborn+maps) for the full file listing and more details.
+
 ## Map volumes included
 - [Sanborn Map Company, Vol. 10, 1921](https://github.com/ChicagoCityscape/sanborn_maps/raw/master/Sanborn%20Map%20Company%2C%20Vol.%2010%2C%201921) - This covers an area between North and Belmont, and Crawford (now Pulaski) and Western Ave. It has 122 sheets, including the cover sheet (which is a map index) and a street index.
 
